@@ -1,0 +1,11 @@
+{
+  "ordinateur": {
+    "definition": "Une machine électronique qui traite les données."
+  },
+  "pomme": {
+    "definition": "Un fruit comestible d'un pommier."
+  },
+  "voiture": {
+    "definition": "une machine qui roule sur 4 roues"
+  }
+}

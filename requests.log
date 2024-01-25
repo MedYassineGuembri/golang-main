@@ -1,0 +1,16 @@
+2024/01/25 09:57:01 Heure: 2024-01-25T09:57:01+01:00, Méthode: GET, Chemin: /list
+2024/01/25 09:57:11 Heure: 2024-01-25T09:57:11+01:00, Méthode: GET, Chemin: /define/voiture
+2024/01/25 10:01:54 Heure: 2024-01-25T10:01:54+01:00, Méthode: GET, Chemin: /list
+2024/01/25 10:02:42 Heure: 2024-01-25T10:02:42+01:00, Méthode: GET, Chemin: /list
+2024/01/25 10:03:00 Heure: 2024-01-25T10:03:00+01:00, Méthode: GET, Chemin: /list
+2024/01/25 10:03:04 Heure: 2024-01-25T10:03:04+01:00, Méthode: GET, Chemin: /list
+2024/01/25 10:12:28 Heure: 2024-01-25T10:12:28+01:00, Méthode: POST, Chemin: /add
+2024/01/25 10:12:32 Heure: 2024-01-25T10:12:32+01:00, Méthode: GET, Chemin: /list
+2024/01/25 10:12:56 Heure: 2024-01-25T10:12:56+01:00, Méthode: POST, Chemin: /add
+2024/01/25 10:13:12 Heure: 2024-01-25T10:13:12+01:00, Méthode: POST, Chemin: /add
+2024/01/25 10:20:00 Time: 2024-01-25T10:20:00+01:00, Method: POST, Path: /add
+2024/01/25 10:20:06 Time: 2024-01-25T10:20:06+01:00, Method: POST, Path: /add
+2024/01/25 10:20:06 Error: le mot et la définition ne peuvent pas être vides, StatusCode: 400
+2024/01/25 10:20:35 Time: 2024-01-25T10:20:35+01:00, Method: POST, Path: /add
+2024/01/25 10:20:35 Error: le mot et la définition ne peuvent pas être vides, StatusCode: 400
+2024/01/25 10:20:47 Time: 2024-01-25T10:20:47+01:00, Method: POST, Path: /add
